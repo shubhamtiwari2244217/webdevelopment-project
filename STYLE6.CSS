@@ -1,0 +1,49 @@
+
+.title{
+    background-color:black;
+margin-bottom:10px;
+text-align:center;
+width:210px;
+color:red;
+border:3px solid brown;
+
+}
+
+ input[type="button"]
+          { background-color:orange;
+            color:black;
+            border:2px solid black;
+            width:100%
+
+          }
+         input[type="text"]
+         { background-color:white;
+           border:2px solid black;
+           width:100%;
+
+
+
+
+
+
+
+
+
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

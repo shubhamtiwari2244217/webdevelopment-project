@@ -1,0 +1,23 @@
+body{
+     background-image: url('shubham.jpg');
+background-repeat: no-repeat;
+  background-color: orange;
+  background-position: center center;
+ 
+}
+
+ .list{ border: 1px solid black;
+            background-color: green;
+            
+            margin-left:75%;
+ 
+          }
+.background{border: 2px solid white;
+          
+
+}
+.li{border: 1px solid brown;
+     margin:10px;
+     margin-left: 75%;
+    text-align: left;
+}
